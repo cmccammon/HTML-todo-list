@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Honey Do List</title>
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body>
+    <header id='top'>
+      <h1 class 'banner'>
+      The Great Honey Do List
+      </h1>
+        <nav>
+          <a href="/honeydos">Honeydo list</a>
+        </nav>
+    </header>>
+      <%= yield %>
+      <footer>
+        <p>Built with these hands!</p>
+          <a href='#top'>go to top</a>
+      </footer>
+    </main>
+  </body>
+</html>

@@ -1,0 +1,14 @@
+0000000000000000000000000000000000000000 0aad6be5a797b445f031d1ebcf85b4b367fd6ee2 Chris McCammon <cmccammon@gmail.com> 1442433252 -0500	commit (initial): initial commit
+0aad6be5a797b445f031d1ebcf85b4b367fd6ee2 631df8115d0dfdf9a7f041f5d938c898ad0763f4 Chris McCammon <cmccammon@gmail.com> 1442436275 -0500	commit: created table
+631df8115d0dfdf9a7f041f5d938c898ad0763f4 4872bf249eed99756e321f888f1e14917b451c66 Chris McCammon <cmccammon@gmail.com> 1442442203 -0500	commit: yes finding a groove
+4872bf249eed99756e321f888f1e14917b451c66 79c1acd5bb1818e0d5e17b346c3863f4e509eea7 Chris McCammon <cmccammon@gmail.com> 1442444911 -0500	commit: got normal mode done
+79c1acd5bb1818e0d5e17b346c3863f4e509eea7 f5b0664d2f9b19189eded04f4ea4d428610509d9 Chris McCammon <cmccammon@gmail.com> 1442447144 -0500	commit: finished the hard mode
+f5b0664d2f9b19189eded04f4ea4d428610509d9 0baec83d65ec23a32a051bd45e644950c5399006 Chris McCammon <cmccammon@gmail.com> 1442448148 -0500	commit: updated readme
+0baec83d65ec23a32a051bd45e644950c5399006 6eeda9ab48c874407f246cdd298ff5846d45c485 Chris McCammon <cmccammon@gmail.com> 1442456207 -0500	commit: cleaned up and tested code again
+6eeda9ab48c874407f246cdd298ff5846d45c485 e6e64e8804c221299f8598e1d93516da7c728ced Chris McCammon <cmccammon@gmail.com> 1442504975 -0500	commit: changing config for heorku
+e6e64e8804c221299f8598e1d93516da7c728ced 6868c2741fb9295d512b0f1353b13e40f7f74e9c Chris McCammon <cmccammon@gmail.com> 1442505078 -0500	commit: gem file lock
+6868c2741fb9295d512b0f1353b13e40f7f74e9c 99f435f154b7a0a587f96dd18139d59c9b319a83 Chris McCammon <cmccammon@gmail.com> 1442873868 -0500	commit: no database found
+99f435f154b7a0a587f96dd18139d59c9b319a83 25aceeec2e8ef7e5a5193587d996a76373d76ca6 Chris McCammon <cmccammon@gmail.com> 1442886510 -0500	commit: oops didn't know when to commit
+25aceeec2e8ef7e5a5193587d996a76373d76ca6 0bab675006d4d0fc130c1f0187dc820009abf057 Chris McCammon <cmccammon@gmail.com> 1442888481 -0500	commit: finishing show page
+0bab675006d4d0fc130c1f0187dc820009abf057 6630ae626c311b14d4e29581ae44e3cdc5caae33 Chris McCammon <cmccammon@gmail.com> 1442889264 -0500	commit: updating css
+6630ae626c311b14d4e29581ae44e3cdc5caae33 d9bd95d04fbab27a7d48d4a477233f0afaf2e33c Chris McCammon <cmccammon@gmail.com> 1442890975 -0500	commit: updating css again

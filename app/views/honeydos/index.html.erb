@@ -1,0 +1,10 @@
+<section class='honeydos'>
+  <h2>Honeydos</h2>
+  <% honeydos.each do |honeydo| %>
+    <p>
+      <a href='/honeydos/<%= honeydo.id %>'>
+      <%= honeydo.project %>
+      </a>
+    </p>
+  <% end %>
+</section>
